@@ -1,0 +1,14 @@
+.unordered{
+  display: flex;
+  gap: 40px;
+  list-style-type: none;
+  text-decoration: underline;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  margin-top: 10px;
+}
